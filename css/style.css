@@ -8,8 +8,8 @@
 a, i {
     color: #FE3DA4;
 }
-.dropdown-menu:hover{
-    background-color:whitesmoke;
+.dropdown-item:hover{
+    background-color:#FE3DA4;
 }
 a:hover{
     color: #FE3DA4;
