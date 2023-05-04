@@ -5,7 +5,7 @@
     --light: #FFFFFF;
     --dark: #152440;
 }
-a, i {
+a {
     color: #FE3DA4;
 }
 .dropdown-item:hover{
