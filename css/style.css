@@ -5,7 +5,15 @@
     --light: #FFFFFF;
     --dark: #152440;
 }
-
+a, i {
+    color: #FE3DA4;
+}
+.dropdown-menu:hover{
+    background-color:whitesmoke;
+}
+a:hover{
+    color: #FE3DA4;
+}
 h1,
 h2,
 .font-weight-bold {
